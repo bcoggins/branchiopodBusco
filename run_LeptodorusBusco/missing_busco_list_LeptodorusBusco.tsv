@@ -1,0 +1,4 @@
+# BUSCO version is: 3.0.1 
+# The lineage dataset is: eukaryota_odb9 (Creation date: 2016-11-02, number of species: 100, number of BUSCOs: 303)
+# To reproduce this run: python /home/osboxes/BUSCOVM/busco3/scripts/run_BUSCO.py -i Trinity.fasta -o LeptodorusBusco -l /home/osboxes/BUSCOVM/lineages/eukaryota_odb9/ -m transcriptome -c 1
+#
